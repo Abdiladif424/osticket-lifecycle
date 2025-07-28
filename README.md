@@ -1,4 +1,4 @@
-<p align="center">
+  <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -46,4 +46,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 Set Properties for the ticket
 - Sev-A (1 hour, 24/7)  - wide impact. Customers are unable to do online banking. 
 - Online Banking Department - Customers unable to access the online banking portal; assigning to the online banking team. 
+
+<img width="2559" height="1439" alt="Screenshot 2025-07-17 172337" src="https://github.com/user-attachments/assets/af736d61-c014-42bc-a465-608aed22d38a" />
+
+3. Work the ticket to completion as Jane
+   
+-Reassign to a team - I will be taking this ticket
+
+- Notes - I suspect the problem might be related to the recent updates. We have tested them sufficiently, but I will look into it further and roll back if I determine that was the case.
+It was determined that the root cause was the recent update. We rolled it back, notified the vendor, and are waiting for a proper fix. Online banking should be up and running. 
+
+<img width="2559" height="1439" alt="Screenshot 2025-07-17 173440" src="https://github.com/user-attachments/assets/bfe67474-73cf-474a-a763-43c43c56be2d" />
+
+
 
